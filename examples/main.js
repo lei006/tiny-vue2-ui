@@ -38,12 +38,12 @@ Vue.use(ElementUI, { locale })
 
 
 //本地的包--用来开发
-import TinyReport from '../src/index'
+import TinyVue2Ui from '../src/index'
 
 //从NPM下载的包--用来测试
 //import TinyReport from 'tiny-report'    
 
-Vue.use(TinyReport)
+Vue.use(TinyVue2Ui)
 
 
 

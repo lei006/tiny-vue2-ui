@@ -1,7 +1,7 @@
 
 <template>
     <div class="f-mainPage">
-        Layout-left-right
+        layout-left-right
     </div>
 </template>
 
@@ -9,7 +9,7 @@
 <script>
 
 export default {
-  name: 'Layout-left-right',
+  name: 'layout-left-right',
   data () {
     return {
     }

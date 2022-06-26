@@ -1,7 +1,7 @@
 
 <template>
     <div class="f-mainPage">
-        Layout-top-bottom
+        layout-top-bottom
     </div>
 </template>
 
@@ -9,7 +9,7 @@
 <script>
 
 export default {
-  name: 'Layout-top-bottom',
+  name: 'layout-top-bottom',
   data () {
     return {
     }
