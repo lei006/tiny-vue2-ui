@@ -1,6 +1,6 @@
 # tiny-report
 
-> A Vue.js project
+> 一个自定义的UI控件组
 
 ## Build Setup
 
@@ -26,13 +26,6 @@ npm test
 
 ``` bash
 # install dependencies
-1. 划线选中      
-2. 拖动增加无素  OK
-3. 属性调整      必需
-4. 各种对齐    - OK
-5. 打印      OK
-6. 设计，填写，预览  - ok
-7. 部件:  多选，富文本...
 ```
 
 
